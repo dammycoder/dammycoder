@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Damilola
 
-<!--
-**dammycoder/dammycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop University**. I build scalable applications using modern technologies on both the **frontend** and **backend**.
 
-Here are some ideas to get you started:
+## 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ **Backend**: Node.js, Laravel, PHP, RESTful APIs, Microservices Architecture  
+- 🖥️ **Frontend**: React, Next.js, TypeScript, JavaScript  
+- 🧩 **API Design**: Clean, scalable, and well-documented APIs  
+- ⚡ **Tools & Practices**: Git, Docker, Agile Development, CI/CD  
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) 
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/damilola-gabriel-b1b091178/
+- Email: damilolagbariel19@gmail.com
+
+---
+
+🛠️ Always learning, always building.
