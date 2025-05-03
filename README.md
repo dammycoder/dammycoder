@@ -7,16 +7,20 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
 - ⚙️ **Backend**: Node.js, Laravel, PHP, RESTful APIs, Microservices Architecture  
 - 🖥️ **Frontend**: React, Next.js, TypeScript, JavaScript  
 - 🧩 **API Design**: Clean, scalable, and well-documented APIs  
-- ⚡ **Tools & Practices**: Git, Docker, Agile Development  
+- ⚡ **Tools & Practices**: Git, Docker, Agile Dev
+
 
 ## 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) 
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+### 🖥️ Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
 
 
 <h3>📫 Let's Connect</h3>
