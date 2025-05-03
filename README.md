@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
 - ⚙️ **Backend**: Node.js, Laravel, PHP, RESTful APIs, Microservices Architecture  
 - 🖥️ **Frontend**: React, Next.js, TypeScript, JavaScript  
 - 🧩 **API Design**: Clean, scalable, and well-documented APIs  
-- ⚡ **Tools & Practices**: Git, Docker, Agile Development, CI/CD  
+- ⚡ **Tools & Practices**: Git, Docker, Agile Development  
 
 ## 🚀 Tech Stack
 
@@ -18,10 +18,11 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 
-## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/damilola-gabriel-b1b091178/
-- Email: damilolagbariel19@gmail.com
+<h3>📫 Let's Connect</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/damilola-gabriel-b1b091178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilola" height="30" width="40" /></a>
+</p>
 
 ---
 
