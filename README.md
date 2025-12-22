@@ -2,17 +2,17 @@
 
 I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop University**. I build scalable applications using modern technologies on both the **frontend** and **backend**.
 
-## 💻 What I Do
+## What I Do
 
-- ⚙️ **Backend**: Node.js, Laravel, PHP, RESTful APIs, Microservices Architecture  
-- 🖥️ **Frontend**: React, Next.js, TypeScript, JavaScript  
-- 🧩 **API Design**: Clean, scalable, and well-documented APIs  
-- ⚡ **Tools & Practices**: Git, Docker, Agile Dev
+- **Backend**: Node.js, Laravel, PHP, RESTful APIs, Microservices Architecture  
+- **Frontend**: React, Next.js, TypeScript, JavaScript  
+- **API Design**: Clean, scalable, and well-documented APIs  
+-  **Tools & Practices**: Git, Docker, Agile Dev
 
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E54C22?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1672B7?style=flat-square&logo=css3&logoColor=white" />
@@ -26,7 +26,7 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -36,7 +36,7 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** with a BSc in Computer Science from **MountainTop
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
